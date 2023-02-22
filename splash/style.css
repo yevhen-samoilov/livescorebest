@@ -9,12 +9,6 @@ body {
   background-size: 100% 100%;
 }
 
-@media (min-width: 800px) {
-  body {
-    display:none;
-}
-}
-
 .center {
   margin: 0;
   position: absolute;
